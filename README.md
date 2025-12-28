@@ -5,8 +5,7 @@ Built to highlight my work as a Frontend / Web Developer.
 
 🚀 Live Demo
 
-👉 (Add your deployed link here)
-Example: https://your-username.github.io/portfolio/
+👉 https://abhay-portfolio-website.netlify.app/ 
 
 🛠️ Tech Stack
 
@@ -32,10 +31,10 @@ Clean and modern UI
 
 📸 Screenshots
 Homepage-
-         <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afdc55b7-7754-4b05-9608-ca345be1fd96" />
+  👉    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/afdc55b7-7754-4b05-9608-ca345be1fd96" />
 
 Project Section -
-           <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdbf9c2a-10c4-4fc5-aa3e-4861894cd82e" />
+  👉    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdbf9c2a-10c4-4fc5-aa3e-4861894cd82e" />
 
 
 🧑‍💻 Author
